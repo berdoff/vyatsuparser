@@ -1,5 +1,4 @@
 from pymongo import MongoClient
-import datetime
 import requests
 import json
 from bs4 import BeautifulSoup
